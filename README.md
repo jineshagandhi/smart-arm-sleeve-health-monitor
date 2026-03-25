@@ -34,7 +34,7 @@ The Smart Arm Sleeve is a wearable IoT device designed for continuous health mon
 
 The system runs on a **Raspberry Pi Pico W** microcontroller, performs edge inference using trained ML models, and serves a real-time web dashboard over WiFi for visualization.
 
-![System Architecture](docs/images/system_architecture.jpeg)
+![System Architecture](docs/images/system_architecture.jpg)
 
 ---
 
@@ -110,7 +110,7 @@ The system uses a two-model fusion architecture:
 ### Hardware Setup
 
 <p align="center">
-  <img src="docs/images/hardware_breadboard.jpeg" alt="Breadboard Setup" width="400"/>
+  <img src="docs/images/hardware_breadboard.jpg" alt="Breadboard Setup" width="400"/>
   <img src="docs/images/wearable_prototype.jpeg" alt="Wearable Prototype" width="400"/>
 </p>
 
