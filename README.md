@@ -4,11 +4,10 @@
 
 An intelligent wearable arm sleeve that monitors real-time vital signs (heart rate, SpO2, blood pressure, body temperature) and environmental conditions (air quality), using on-device ML models for health anomaly detection and risk assessment.
 
-**Built at MIT World Peace University | Department of Computer Engineering**
+**Built at MIT World Peace University | Department of Computer Science & Engineering**
 
-**Author:** Jinesha Gandhi
-
----
+ 
+ 
 
 ## Table of Contents
 
